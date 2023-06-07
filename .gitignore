@@ -40,3 +40,4 @@ build/
 
 .idea
 Nearest-Map.iml
+.\.idea\
